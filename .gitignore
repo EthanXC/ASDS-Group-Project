@@ -1,0 +1,3 @@
+# Raw data is downloaded on first run (see random_forest/hillstrom_data.py)
+data/
+__pycache__/
